@@ -1,10 +1,14 @@
 // variables to keep track of quiz state
-    // currentQuestion
-    // time
+    let shuffledQuestions, currentQuestionIndex;
+    var seconds = 60;
     // timerId
 
 // variables to reference DOM elements
 var questionsEl = document.getElementById('questions');
+var startScreenEl = document.getElementById('start-screen');
+var endScreenEl = document.getElementById('end-screen');
+var feedbackEl = document.getElementById('feeback');
+
 
 
 /* FUNCTION TO START THE QUIZ */
@@ -17,7 +21,7 @@ function startQuiz() {
 
     // show starting time
 
-    getQuestion();
+    getQuestions();
 }
 
 /* FUNCTION TO GET/SHOW EACH QUESTION */
