@@ -110,7 +110,7 @@ h2 {
     display: none;
 }
 
-/* Styles buttons and adds shadow on hover */
+/* Styles buttons and adds a shadow on hover */
 .button-style {
     display: flex;
     justify-content: left;
