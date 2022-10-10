@@ -13,14 +13,14 @@ While building this project I learned how to:
 
 ## Link to Deployed Site
 
-To view the project click here: [Code Quiz]()
+To view the project click here: [Code Quiz](https://benjamincottrell.github.io/m4-coding-quiz/)
 
 ## Screenshots
 
-![quiz start page](.\assets\images\coding-quiz-start.JPG)
-![quiz question page](.\assets\images\coding-quiz-question.JPG)
-![quiz results page](.\assets\images\coding-quiz-score.JPG)
-![quiz highscores page](.\assets\images\coding-quiz-high-scores.JPG)
+![quiz start page](./assets/images/coding-quiz-start.JPG)
+![quiz question page](./assets/images/coding-quiz-question.JPG)
+![quiz results page](./assets/images/coding-quiz-score.JPG)
+![quiz highscores page](./assets/images/coding-quiz-high-scores.JPG)
 
 ## Assignment Instructions
 
